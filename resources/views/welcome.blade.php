@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - By Qinphp
+                    Laravel - By Qinphp(2018)
                 </div>
 
                 <div class="links">
